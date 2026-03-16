@@ -20,6 +20,5 @@
 (Login Screen)
 (Chat Screen)
 
-## Tác giả
-
-Pham Thanh
+## Tác giả 
+TRung
