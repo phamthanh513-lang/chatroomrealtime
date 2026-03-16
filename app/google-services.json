@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "512341033570",
+    "firebase_url": "https://chatrealtimeroom-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatrealtimeroom",
+    "storage_bucket": "chatrealtimeroom.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512341033570:android:9f7d4e258da825de9ac73b",
+        "android_client_info": {
+          "package_name": "com.example.chatrealtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiTvt4pWi_eNrsfJgZNf05sa42jNAxNeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512341033570:android:495a90865de709ca9ac73b",
+        "android_client_info": {
+          "package_name": "com.example.chatrealtimeroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiTvt4pWi_eNrsfJgZNf05sa42jNAxNeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
